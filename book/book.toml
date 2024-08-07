@@ -1,0 +1,6 @@
+[book]
+authors = ["Supragya Raj"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Problem Solving Book"
